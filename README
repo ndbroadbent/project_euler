@@ -1,5 +1,8 @@
 Solutions to Project Euler problems in Ruby
 -------------------------------------------
 
-No cheating! ;)
+Includes a simple solution directory generator and
+a nice little question formatter.
+
+But no cheating! ;)
 
