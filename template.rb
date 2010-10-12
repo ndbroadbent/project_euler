@@ -4,7 +4,7 @@
 # -----------------------------------------
 require 'rubygems'
 problem_no = File.dirname(File.expand_path(__FILE__)).split('/').last
-puts "=== Solving Project Euler problem ##{problem_no}"
+puts "=== Solving Project Euler problem ##{problem_no}\n\n"
 question = %Q{
 
 
