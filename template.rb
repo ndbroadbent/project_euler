@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
+# coding: utf-8
 # -----------------------------------------
 # | A solution to a Project Euler problem |
 # -----------------------------------------
