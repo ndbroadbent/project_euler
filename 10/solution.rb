@@ -43,3 +43,5 @@ end
 
 puts "\n\n===== Sum of primes: #{@total}"
 
+# This is rubbish! Way too slow in ruby.
+

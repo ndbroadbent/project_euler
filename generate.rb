@@ -6,4 +6,5 @@
 
 system("mkdir #{ARGV[0]}")
 system("cp -f template.rb #{ARGV[0]}/solution.rb")
+system("cp -f template.c #{ARGV[0]}/solution.c")
 
